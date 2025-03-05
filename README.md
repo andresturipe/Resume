@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andres Turipe! </h1>
 
-<h2>👨‍💻 Resume:</h2>
+<h2> Resume:</h2>
 
 - <b>Technical Skills </b>
   - [Currently learning Python and praciting SQL]
